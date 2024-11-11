@@ -1,0 +1,21 @@
+{
+  "name": "com.dodo.custom-content-size-fitter",
+  "version": "1.0.0",
+  "displayName": "Custom Content Size Fitter",
+  "description": "This is a custom content size fitter that works without any layout and works properly at the start of the runtime",
+  "unity": "2022.3",
+  "unityRelease": "45f1",
+  "documentationUrl": "https://github.com/DoriannX/CustomContentSizeFitter/blob/main/README.md",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}

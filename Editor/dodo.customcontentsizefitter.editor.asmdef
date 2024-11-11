@@ -1,0 +1,18 @@
+{
+    "name": "CustomContentSizeFitter.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3f9568f46f5a7054faab3298f46045bf"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
